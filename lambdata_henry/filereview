@@ -1,0 +1,3 @@
+henry has a great idea to make change states to their abbreviations. i liked how he made a list of all of them in his function, it was very clear to read. 
+one thing i would recommend doing is trying to write a more simple function that changes abbreviations back to state full names, using the previous function
+to aid in doing so
